@@ -1,0 +1,9 @@
+{
+    "appTitle": "Direktori Siswa",
+    "detailtitle": "Detail Pengguna",
+    "email": "Email",
+    "Language": "Bahasa",
+    "errorMesseage": "Gagal mengambil data",
+    "retry": "Coba Lagi",
+    "noData": "Tidak ada data pengguna yang tersedia"
+}
